@@ -44,4 +44,19 @@ on GitHub, open **Settings → Pages** and configure the site to deploy from you
 repository's main branch.
 See [GitHub Pages documentation](https://pages.github.com/) for detailed instructions.
 Once deployment finishes, visit the provided URL and confirm that your `index.html`
-page
+page. 
+## 5. Collaborate with a Pull Request
+Use your repository's **Settings > Collaborators** area to invite another person.
+Ask them to make a small change on a separate branch and submit a **pull request**.
+A pull request lets someone propose a change without immediately altering the main
+version of the project. Review their change, approve it, and merge it into `main`.
+See GitHub's guide to [creating pull requests](https://docs.github.com/en/pull-
+requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-
+requests/about-pull-requests).
+## 6. Document Your Work
+Create `readme.md` in the top level of the repository. Write your instructions
+there using headings, lists, links, **bold text**, *italics*, block quotes, and
+code blocks.
+Commit and push the finished README. Before submitting, verify both URLs:
+* Your public GitHub repository
+* Your live GitHub
