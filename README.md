@@ -53,10 +53,3 @@ version of the project. Review their change, approve it, and merge it into `main
 See GitHub's guide to [creating pull requests](https://docs.github.com/en/pull-
 requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-
 requests/about-pull-requests).
-## 6. Document Your Work
-Create `readme.md` in the top level of the repository. Write your instructions
-there using headings, lists, links, **bold text**, *italics*, block quotes, and
-code blocks.
-Commit and push the finished README. Before submitting, verify both URLs:
-* Your public GitHub repository
-* Your live GitHub
