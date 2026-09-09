@@ -5,7 +5,7 @@ This guide will help you set up the basic tools you need to create, manage,
 collaborate on, and publish documentation. You do not need prior coding experience.
 The goal is to understand the basic workflow rather than memorise every step.
 
-##1.    Install VS Code
+## 1.   Install VS Code
 [Visual Studio Code](https://code.visualstudio.com/) is a text editor that makes it
 easier to work with Markdown, HTML, and other plain-text files. Download and
 install the version for your operating system. If using Iowa State laptop, beacuse of Admin settings, you might need to download it from self service.
